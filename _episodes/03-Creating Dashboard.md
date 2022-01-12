@@ -1,13 +1,13 @@
 A dashboard is a collection of sheets or views. The benefit of dashboards is that we can compare variety of data at one glace. 
-The things that we focus on while creating a dashboard are –ContentandLayout.Let us take an example of a dashboard which has sales,
-profits and discountsheetsall together. 
+The things that we focus on while creating a dashboard are –ContentandLayout. Let us take an example of a dashboard which has sales,
+profits and discount sheetsall together. 
 
 How do you imagine the dashboard to look? 
 
 Quite chaotic because we will have so many factors to focus on. Dashboards should havehomogeneity with respect to content. 
 Sticking to one measure while creating a dashboard gives us the proper content.The resultant dashboard will be more relevant.
 To start with dashboards, we first need 4 or 5 visualizations ready (which we have already done in the previous section).
-Now, to open a dashboardeitherclick on the below highlighted icon from the panelon the bottom of the page or on the toolbar where it says dashboard.
+Now, to open a dashboard either click on the below highlighted icon from the panelon the bottom of the page or on the toolbar where it says dashboard.
 
 --img
 
@@ -18,7 +18,7 @@ Now the dashboard will fit any screen its displayed on (laptop/desktop/tablet/ph
 
 Next, we focus on the layout. We need to plan how we are going to arrange the sheetsto make the most sense out of them. 
 Generally,most english speaking countries have a habit of reading from left to right.
-We caneither glance the dashboard in a ‘Z’ pattern or a ‘N’ pattern.Deciding a layout for dashboard should have a logical approach. 
+We can either glance the dashboard in a ‘Z’ pattern or a ‘N’ pattern.Deciding a layout for dashboard should have a logical approach. 
 For example, in our case we are designing a sales dashboard. Our first chart, sales by category, gives a high-level view of sales.
 So,we would want to have that in the first quadrant (considering we have 4 sheets).
 To start with dashboard, first drag the Sales by Category sheet on the dashboard. It will take up the whole screen. 
