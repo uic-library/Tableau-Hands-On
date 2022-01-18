@@ -1,13 +1,33 @@
-For this session, we will be using the Superstore dataset.We created 2 charts in the previous session using the same dataset.
-We will create some more visualizations in this session.•Sales by Category–To visualize sales by category, we add sales from measures to column shelf 
+---
+title: "Creating Charts"
+teaching: 0
+
+objectives:
+- "Install necessary software for this workshop"
+- "Download data and other setup files for this workshop"
+- "Get context of data used in this workshop"
+- "Confirm I have the previous knowledge necessary to participate in this workshop"
+
+keypoints:
+- "Install X software"
+- "Install Y software"
+- "Download data/setup files x,y,z"
+- "Workshop data is from x, in y format and includes x,y,z types of data"
+---
+
+
+For this session, we will be using the Superstore dataset. We created 2 charts in the previous session using the same dataset.
+We will create some more visualizations in this session.
+- Sales by Category – To visualize sales by category, we add sales from measures to column shelf 
 and category from dimensions list.We get a horizontal bar chart. 
 To make the visualization better, we add mark labels and change the view to fit the entire screen(highlighted in the figure below).
 This is the simplest graph which shows sales across all the categories in the data.
 
-Sales by Category – To visualize sales by category, we add sales from measures to column shelf and category from dimensions list.We get a horizontal bar chart. 
+- Sales by Category – To visualize sales by category, we add sales from measures to column shelf and category from dimensions list.We get a horizontal bar chart. 
 To make the visualization better, we add mark labels and change the view to fit the entire screen(highlighted in the figure below).
 This is the simplest graph which shows sales across all the categories in the data.
---img
+
+--img ![sales by category]("../fig/image-name.PNG")
 
 Sales by Sub-Category–To plot the sales by sub-category, add sales to column shelf and add sub-category to the row shelf.Now, click on the ‘show me’ 
 icon on the right side of the sheet. The ‘show me’ icon is like a cheat sheet, it gives us all the typesof graphs we can plot. 
