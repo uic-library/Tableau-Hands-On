@@ -1,18 +1,12 @@
 ---
 title: "Creating Charts"
-teaching: 0
+time: 0
 
 objectives:
-- "Install necessary software for this workshop"
-- "Download data and other setup files for this workshop"
-- "Get context of data used in this workshop"
-- "Confirm I have the previous knowledge necessary to participate in this workshop"
+- "ADD objectives for this page"
 
 keypoints:
-- "Install X software"
-- "Install Y software"
-- "Download data/setup files x,y,z"
-- "Workshop data is from x, in y format and includes x,y,z types of data"
+- "add summary keypoints for this page"
 ---
 
 
