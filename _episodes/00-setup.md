@@ -14,9 +14,7 @@ objectives:
 {% comment %} to add automated software install instructions, add instructions available in the install instructions 
 folder \_includes/install_instructions by using code seen below. Add or remove install instructions as needed. {% endcomment %}
 
-### Install Tableau
-
-### Install Zoom
+{% include install_instructions/tableau.html %}
 
 {% include install_instructions/videoconferencing.html %}
 
@@ -24,14 +22,38 @@ folder \_includes/install_instructions by using code seen below. Add or remove i
 
 Please download the following file(s) to particpate in the workshop:
 
-FIXME data: 
+Link to Data Set: [https://uofi.box.com/s/6q4p6u601z28b5iacmmydbuw3p6r0ezm](https://uofi.box.com/s/6q4p6u601z28b5iacmmydbuw3p6r0ezm)
+
+Link to Tableau File: [https://uofi.box.com/s/fxios6tbtzg5r3xsr4uzl5ykwsop96ce](https://uofi.box.com/s/fxios6tbtzg5r3xsr4uzl5ykwsop96ce)
 
 
 ## About the Data Used in this Workshop:
 
-(if the workshop uses data)
+The dataset used is a sample dataset from Tabelau. It is a basic data collection of US supermarkets.
 
-FIXME add intro/description of data. Including file format and any disciplinary background needed to understand
-why the data is gathered and how it is used.
+Let us understand the attributes of this data set:
+
+- 'Row ID' - This is nothing but Serial No.
+- 'Order ID' - ID created when a product order is placed.
+- 'Order Date' - Date on which a customer places his/her order.
+- 'Ship Date' - Date on which the order is shipped.
+- 'Ship Mode' - Mode of shipment of each order.
+- 'Customer ID' - ID assigned to each customer who places an order.
+- 'Customer Name' - Name of Customer.
+- 'Segment' - Section from where the order is placed.
+- 'Country' - Country details of this data set. We are looking only for US store data.
+- 'City' - Cities of US are listed here.
+- 'State' - States of US are listed here.
+- 'Postal Code' - pin code
+- 'Region' - grouped into region wise
+- 'Product ID' - Product ID of each product
+- 'Category' - Category to which each product belongs to.
+- 'Sub-Category' - Sub-Category of each Category
+- 'Product Name' - Name of products.
+- 'Sales' - Selling Price of each product.
+- 'Quantity' - number of quantity available for a particular product.
+- 'Discount' - Discount available on each product.
+- 'Profit' - Profit gained on each product.
+
 
 {% include links.md %}
