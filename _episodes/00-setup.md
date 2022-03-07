@@ -1,6 +1,6 @@
 ---
 title: "Setup"
-questions:
+
 
 objectives:
 - "Install and authenticate Tableau subscription"
@@ -10,9 +10,6 @@ objectives:
 ---
 
 ## Software setup
-
-{% comment %} to add automated software install instructions, add instructions available in the install instructions 
-folder \_includes/install_instructions by using code seen below. Add or remove install instructions as needed. {% endcomment %}
 
 {% include install_instructions/tableau.html %}
 
@@ -55,5 +52,3 @@ Let us understand the attributes of this data set:
 - 'Discount' - Discount available on each product.
 - 'Profit' - Profit gained on each product.
 
-
-{% include links.md %}
