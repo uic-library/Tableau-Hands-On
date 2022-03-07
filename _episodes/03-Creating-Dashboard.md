@@ -3,10 +3,7 @@ title: "Creating Dashboard"
 time: 0
 
 objectives:
-- "ADD objectives for this page"
-
-keypoints:
-- "add summary keypoints for this page"
+- "How to create Dashboard in Tableau"
 ---
 
 - A dashboard is a collection of sheets or views. The benefit of dashboards is that we can compare variety of data at one glace. 
