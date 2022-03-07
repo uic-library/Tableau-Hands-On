@@ -3,10 +3,7 @@ title: "Creating Story"
 time: 0
 
 objectives:
-- "ADD objectives for this page"
-
-keypoints:
-- "ADD summary keypoints for this page"
+- "How to create a story in Tableau"
 ---
 
 - A story in tableau is a sequence of visualizations (either worksheets or dashboards) that help convey information. 
