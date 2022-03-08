@@ -17,7 +17,7 @@ dashboards and story in tableau.
 
 <br>
 > ## Pre-requisites
-> * Familiarised with Tableau at an introductory level ([resource 1]())
+> * Familiarised with Tableau at an introductory level ([https://uic-library.github.io/Tableau-Intro/](https://uic-library.github.io/Tableau-Intro/))
 
 
 ## Workshop Content 
