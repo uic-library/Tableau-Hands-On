@@ -21,8 +21,7 @@ Please download the following file(s) to particpate in the workshop:
 
 Link to Data Set: [https://uofi.box.com/s/6q4p6u601z28b5iacmmydbuw3p6r0ezm](https://uofi.box.com/s/6q4p6u601z28b5iacmmydbuw3p6r0ezm)
 
-Link to Tableau File: [https://uofi.box.com/s/fxios6tbtzg5r3xsr4uzl5ykwsop96ce](https://uofi.box.com/s/fxios6tbtzg5r3xsr4uzl5ykwsop96ce)
-
+Link to Tableau File: https://uofi.box.com/s/jsddz1iz8fqe0adkpcfjzhuwv7r30jhr
 
 ## About the Data Used in this Workshop:
 
