@@ -25,10 +25,10 @@ dashboards and story in tableau.
 | Section    | Overview | Time Estimate |
 | ------- | ---------- |
 |[Setup](https://uic-library.github.io/workshop-template/00-setup/index.html)    | download and setup required software. Download data files/other required set up files|0:20 min|
-|[Introduction] (https://uic-library.github.io/Tableau-Hands-On/01-introduction/index.html)| | 
-|[Creating Charts](https://uic-library.github.io/Tableau-Hands-On/02-Creating-Charts/index.html) | | 
-|[Creating Dashboard]| (https://uic-library.github.io/Tableau-Hands-On/03-Creating-Dashboard/index.html)| | 
-|[Creating Story]| (https://uic-library.github.io/Tableau-Hands-On/04-Creating-Story/index.html)| | 
+|[Introduction] (https://uic-library.github.io/Tableau-Hands-On/01-introduction/index.html) | | | 
+|[Creating Charts](https://uic-library.github.io/Tableau-Hands-On/02-Creating-Charts/index.html) | | | 
+|[Creating Dashboard]| (https://uic-library.github.io/Tableau-Hands-On/03-Creating-Dashboard/index.html)| | | 
+|[Creating Story]| (https://uic-library.github.io/Tableau-Hands-On/04-Creating-Story/index.html)| | | 
 
 {% comment %}
 
