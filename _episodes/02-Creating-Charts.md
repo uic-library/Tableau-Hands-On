@@ -14,10 +14,6 @@ and category from dimensions list.We get a horizontal bar chart.
 To make the visualization better, we add mark labels and change the view to fit the entire screen(highlighted in the figure below).
 This is the simplest graph which shows sales across all the categories in the data.
 
-- Sales by Category – To visualize sales by category, we add sales from measures to column shelf and category from dimensions list.We get a horizontal bar chart. 
-To make the visualization better, we add mark labels and change the view to fit the entire screen(highlighted in the figure below).
-This is the simplest graph which shows sales across all the categories in the data.
-
 <img width="722" alt="Screen Shot 2022-01-24 at 2 43 27 PM" src="https://user-images.githubusercontent.com/47697537/150861594-2ec9720a-4c35-4557-9cc7-9c38da5735dc.png">
 
 
@@ -67,7 +63,3 @@ panel to details marks card and adding sales to size marks card(instead of color
 
 
 <img width="757" alt="Screen Shot 2022-01-24 at 2 52 24 PM" src="https://user-images.githubusercontent.com/47697537/150863102-5fd54ed6-be53-4c27-83fe-98f292f0782e.png">
-
-
-
-
