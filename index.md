@@ -24,11 +24,11 @@ dashboards and story in tableau.
 
 | Section    | Overview | Time Estimate |
 | ------- | ---------- |
-|[Setup](https://uic-library.github.io/workshop-template/00-setup/index.html)    | download and setup required software. Download data files/other required set up files|0:20 min|
-|[Introduction] (https://uic-library.github.io/Tableau-Hands-On/01-introduction/index.html) | | | 
-|[Creating Charts](https://uic-library.github.io/Tableau-Hands-On/02-Creating-Charts/index.html) | | | 
-|[Creating Dashboard]| (https://uic-library.github.io/Tableau-Hands-On/03-Creating-Dashboard/index.html)| | | 
-|[Creating Story]| (https://uic-library.github.io/Tableau-Hands-On/04-Creating-Story/index.html)| | | 
+|[Setup](https://uic-library.github.io/workshop-template/00-setup/index.html)    | download and setup required software. Download data files|0:20 min|
+|[Introduction](https://uic-library.github.io/Tableau-Hands-On/01-introduction/index.html)|Understand Data Visualization concepts| | 
+|[Creating Charts](https://uic-library.github.io/Tableau-Hands-On/02-Creating-Charts/index.html)| Demo of Creating Charts in Tableau. | | 
+|[Creating Dashboard](https://uic-library.github.io/Tableau-Hands-On/03-Creating-Dashboard/index.html)| Demo of Creating Dashboard in Tableau. | | 
+|[Creating Story](https://uic-library.github.io/Tableau-Hands-On/04-Creating-Story/index.html)| Demo of Creating Story in Tableau. | | 
 
 {% comment %}
 
@@ -40,11 +40,7 @@ dashboards and story in tableau.
 
 ## Survey
 
-Thank you for attending this workshop or reading through the workshop material! If you could take 3-5 min to [respond to our survey](add link to workshop survey), we can continue to improve this workshop. We appreciate any and all feedback!
+Thank you for attending this workshop or reading through the workshop material! If you could take 3-5 min to [respond to our anonymous survey](https://uic.ca1.qualtrics.com/jfe/form/SV_5bYL8vP2EqGbAmW), we can continue to improve this workshop. We appreciate any and all feedback!
 
 
-## Next Up...
-Check out these workshops after you've completed this one:
-1. [Workshop Title]()
-2. [Workshop Title]()
 
